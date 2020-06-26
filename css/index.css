@@ -1,0 +1,50 @@
+html, body
+{
+    margin: 0px;
+    height: 100%;
+   width: 100%; 
+   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+#first-slide
+{
+    background-image: url("../media/6.jpg");
+    background-size: cover;
+    min-height: 90%;
+    width: 100%;
+    padding: 0%;
+    min-width: 100%;
+    
+}
+nav
+{
+    font-size: 25px;
+    height: 10%;
+
+}
+#logo-bar
+{
+
+}
+
+#title
+{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+#title h1
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+}
+#title p
+{
+    font-size: 30px;
+    padding-left: 10px;
+    margin-top: 3%;
+}
+
+
+#operations
+{
+    min-height: 100%;
+}
